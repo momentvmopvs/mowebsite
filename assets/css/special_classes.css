@@ -47,6 +47,14 @@ h6{
     color: rgb(29, 0, 77);
 }
 
+h7{
+    font-family: 'M PLUS 1', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 50px;
+    color: rgb(29, 0, 77);
+}
+
 p{
     font-weight: 500;
     font-size: 22px;
